@@ -10,7 +10,7 @@ public class TitleButton : MonoBehaviour {
     public void GoToTitle()
     {
         //return to title scene
-        SceneManager.LoadScene("Title");
+        SceneManager.LoadScene("TitleScreen");
     }
 	
 }
